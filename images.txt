@@ -5,5 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 hello-world
-Hyperledger Fabric:v2.5.11
-Fabric CA:v1.5.15
+Hyperledger-Fabric:v2.5.11
+Fabric-CA:v1.5.15
