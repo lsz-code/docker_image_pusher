@@ -6,15 +6,15 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 hello-world
 hyperledger/fabric-ca:latest
-hyperledger/fabric-orderer:latest
-hyperledger/fabric-peer:latest
-hyperledger/fabric-ccenv:latest
-hyperledger/fabric-tools:latest
-hyperledger/fabric-javaenv:latest
-hyperledger/fabric-baseimage:latest
-hyperledger/fabric-baseos:latest
-hyperledger/fabric-kafka:latest
-hyperledger/fabric-zookeeper:latest
-hyperledger/fabric-couchdb:latest
-hyperledger/fabric-membersrvc:latest
+#hyperledger/fabric-orderer:latest
+#hyperledger/fabric-peer:latest
+#hyperledger/fabric-ccenv:latest
+#hyperledger/fabric-tools:latest
+#hyperledger/fabric-javaenv:latest
+#hyperledger/fabric-baseimage:latest
+#hyperledger/fabric-baseos:latest
+#hyperledger/fabric-kafka:latest
+#hyperledger/fabric-zookeeper:latest
+#hyperledger/fabric-couchdb:latest
+#hyperledger/fabric-membersrvc:latest
 
