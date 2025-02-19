@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 hello-world
-hyperledger-fabric-linux-2.5.11.tar.gz
+Hyperledger Fabric binaries:2.5.11
