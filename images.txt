@@ -8,7 +8,7 @@ hello-world
 #hyperledger/fabric-ca:latest
 #hyperledger/fabric-orderer:latest
 #hyperledger/fabric-peer:latest
-#hyperledger/fabric-ccenv:latest
+#hyperledger/fabric-ccenv:2.5
 #hyperledger/fabric-tools:latest
 #hyperledger/fabric-javaenv:latest
 hyperledger/fabric-baseimage:0.4.15
