@@ -17,4 +17,4 @@ hyperledger/fabric-kafka:latest
 hyperledger/fabric-zookeeper:latest
 hyperledger/fabric-couchdb:latest
 hyperledger/fabric-membersrvc:latest
-
+busybox:latest
